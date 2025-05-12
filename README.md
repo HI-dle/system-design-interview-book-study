@@ -2,23 +2,23 @@
 `가상 면접 사례로 배우는 대규모 시스템 설계 기초` 책 스터디를 위한 레포지토리입니다.
 
 ## 발표 자료
-| 챕터                          | 발표 자료 | 이슈 링크 |
-|-----------------------------|:------|:------|
-| 1장. 사용자 수에 따른 규모 확장성        |       |       |
-| 2장. 개략적인 규모 추정              |       |       |
-| 3장. 시스템 설계 면접 공략법           |       |       |
-| 4장. 처리율 제한 장치의 설계           |       |       |
-| 5장. 안정 해시 설계                |       |       |
-| 6장. 키-값 저장소 설계              |       |       |
-| 7장. 분산 시스템을 위한 유일 ID 생성기 설계 |       |       |
-| 8장. URL 단축기 설계              |       |       |
-| 9장. 웹 크롤러 설계                |       |       |
-| 10장. 알림 시스템 설계              |       |       |
-| 11장. 뉴스 피드 시스템 설계           |       |       |
-| 12장. 채팅 시스템 설계              |       |       |
-| 13장. 검색어 자동완성 시스템           |       |       |
-| 14장. 유튜브 설계                 |       |       |
-| 15장. 구글 드라이브 설계             |       |       |
+| 챕터                                                                                 | 이슈 링크  | 발표자 |
+|------------------------------------------------------------------------------------|:-------|:----|
+| [1장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/01장). 사용자 수에 따른 규모 확장성        | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [2장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/02장). 개략적인 규모 추정              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [3장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/03장). 시스템 설계 면접 공략법           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [4장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/04장). 처리율 제한 장치의 설계           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [5장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/05장). 안정 해시 설계                | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [6장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/06장). 키-값 저장소 설계              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [7장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/07장). 분산 시스템을 위한 유일 ID 생성기 설계 | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [8장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/08장). URL 단축기 설계              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [9장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/09장). 웹 크롤러 설계                | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [10장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/10장). 알림 시스템 설계              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [11장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/11장). 뉴스 피드 시스템 설계           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [12장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/12장). 채팅 시스템 설계              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [13장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/13장). 검색어 자동완성 시스템           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [14장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/14장). 유튜브 설계                 | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [15장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/15장). 구글 드라이브 설계             | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
 
 ## 📜 진행방식
 - [책 링크](http://www.yes24.com/Product/Goods/102819435)
