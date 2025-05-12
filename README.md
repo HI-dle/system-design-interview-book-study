@@ -72,3 +72,31 @@
 
 - 1주일 동안 책을 읽으면서 느낀점, 발표를 보고 느낀점 들을 자유롭게 이야기 해주시면 됩니다.
 - 자유롭게 각자 하고 싶은 말을 하면 되니 부담 가지실 필요는 없습니다.
+
+### 팀원 정보
+<table>
+    <tr>
+        <td align="center">
+            <a href="https://github.com/hyezuu"><img  width="100px" src="https://avatars.githubusercontent.com/u/147456219?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/je-pa"><img  width="100px" src="https://avatars.githubusercontent.com/u/76720692?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/cchoijjinyoung"><img  width="100px" src="https://avatars.githubusercontent.com/u/68311264?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/hanjihoon03"><img  width="100px" src="https://avatars.githubusercontent.com/u/163777923?v=4" /></a>
+        </td>
+        <td align="center">
+            <a href="https://github.com/HanaHww2"><img  width="100px" src="https://avatars.githubusercontent.com/u/62924471?v=4" /></a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">강혜주</td>
+        <td align="center">박지은</td>
+        <td align="center">최진영</td>
+        <td align="center">한지훈</td>
+        <td align="center">황하온</td>
+    </tr>
+</table>
