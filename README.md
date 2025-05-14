@@ -4,7 +4,7 @@
 ## 발표 자료
 | 챕터                                                                                 | 이슈 링크  | 발표자 |
 |------------------------------------------------------------------------------------|:-------|:----|
-| [1장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/01장). 사용자 수에 따른 규모 확장성        | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
+| [1장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/01장). 사용자 수에 따른 규모 확장성        | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/3) |     |
 | [2장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/02장). 개략적인 규모 추정              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
 | [3장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/03장). 시스템 설계 면접 공략법           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
 | [4장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/04장). 처리율 제한 장치의 설계           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/1) |     |
