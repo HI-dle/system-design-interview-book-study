@@ -18,7 +18,7 @@
 |25/06/19| [12장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/12장). 채팅 시스템 설계              | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/14) |
 |25/06/23| [13장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/13장). 검색어 자동완성 시스템           | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/15) |
 |25/06/26,30| [14장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/14장). 유튜브 설계                 | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/16) |
-|25/07/03| [15장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/15장). 구글 드라이브 설계             | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/17) |
+|25/07/05| [15장](https://github.com/HI-dle/system-design-interview-book-study/tree/main/15장). 구글 드라이브 설계             | [링크](https://github.com/HI-dle/system-design-interview-book-study/issues/17) |
 
 ## 📜 진행방식
 - [책 링크](http://www.yes24.com/Product/Goods/102819435)
